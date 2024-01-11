@@ -1,0 +1,95 @@
+[33mcommit b2e67f34df39e7aa488043026ae01885a840e652[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Dima <fanzor2006@gmail.com>
+Date:   Thu Jan 11 10:18:48 2024 +0300
+
+    Изменили файл readme
+
+ 2 files changed, 1 deletion(-)
+
+[33mcommit d6298d19979eff7e4b6e284bc2a210f24d9094e7[m
+Author: Dima <fanzor2006@gmail.com>
+Date:   Thu Jan 11 09:31:49 2024 +0300
+
+    Удалил кракозябру в тексте
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+[33mcommit aa507d6bd4caf9bd6d67ea105a821b7c76500c67[m
+Author: Dima <fanzor2006@gmail.com>
+Date:   Thu Jan 11 09:26:48 2024 +0300
+
+    Добавил параграф
+
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+[33mcommit 32e6bc6948c0bbb9e8264c00390d0a494aa1ad4c[m
+Author: Dima <fanzor2006@gmail.com>
+Date:   Wed Jan 10 13:50:48 2024 +0300
+
+    Рабочая станци откуда вносились изменения в файл
+
+ 1 file changed, 1 insertion(+)
+
+[33mcommit e3079ec91483de4899e8754331bb4a1ab8d9da75[m
+Author: dima <81441997+Dimasstep@users.noreply.github.com>
+Date:   Wed Jan 10 13:47:17 2024 +0300
+
+    На платформе внесли изменения
+
+ 1 file changed, 1 insertion(+)
+
+[33mcommit 48e33d69ed0932d2935c16d1a9347be6ba3c8a00[m
+Author: Dima <fanzor2006@gmail.com>
+Date:   Wed Jan 10 13:45:28 2024 +0300
+
+    2. Данный фрагмент кода добавлен из под терминала
+
+ 1 file changed, 1 insertion(+)
+
+[33mcommit 5058c294cd8dfbb0f239e8510e754084ff3886b0[m
+Author: Dima <fanzor2006@gmail.com>
+Date:   Wed Jan 10 13:12:46 2024 +0300
+
+    Добавили первый пункт в данный файл
+
+ 1 file changed, 1 insertion(+)
+
+[33mcommit 5edf1f376fc63759a467f6648f7d1917d969c30d[m
+Author: Dima <fanzor2006@gmail.com>
+Date:   Wed Jan 10 12:48:57 2024 +0300
+
+    Добавил файл CINTRIBUTING в ветку MAIN
+
+ 2 files changed, 3 insertions(+), 2 deletions(-)
+
+[33mcommit 43499469e0f1d2da0b0b93be2e91141d3db5e4fb[m
+Author: Dima <fanzor2006@gmail.com>
+Date:   Wed Jan 10 12:43:58 2024 +0300
+
+    Добавили в  ветку файл style.css
+
+ 2 files changed, 17 insertions(+)
+
+[33mcommit 27a5e89fe9406040cfc6a192e4cbcb31a91a7291[m
+Author: Dima <fanzor2006@gmail.com>
+Date:   Wed Jan 10 12:31:22 2024 +0300
+
+    Добавили новый файл README
+
+ 1 file changed, 1 insertion(+)
+
+[33mcommit ee2f0b815534b66caeb6afa2ab43699cf8214011[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Dima <fanzor2006@gmail.com>
+Date:   Wed Jan 10 11:41:13 2024 +0300
+
+    Добавили файл demo.js  в ветку MAIN
+
+ 2 files changed, 14 insertions(+)
+
+[33mcommit eb6e802a1fb7892dbe82d507763cab46b59749b7[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Dima <fanzor2006@gmail.com>
+Date:   Wed Jan 10 11:33:17 2024 +0300
+
+    Дабавили файл index.html
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
